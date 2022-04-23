@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PM1E3201820050026</string>
+    <string name="hint_descripcion">Descripcion:</string>
+    <string name="hint_cantidad">Cantidad:</string>
+    <string name="hint_tiempo">Tiempo:</string>
+    <string name="hint_Periocidad">Periocidad:</string>
+    <string name="btn_guarda">Guardar Medicamento</string>
+    <string name="menu_nuevo">Nuevo Medicamento</string>
+</resources>
